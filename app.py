@@ -9,7 +9,7 @@ from openai import OpenAI
 
 # Set page configuration
 st.set_page_config(
-    page_title="Mandala Art Generator",
+    page_title="Saket's Mandala Art Generator",
     page_icon="🎨",
     layout="wide",
     initial_sidebar_state="expanded"
